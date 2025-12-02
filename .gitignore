@@ -1,0 +1,15 @@
+# Ignore VS Code settings folder
+.vscode/
+
+# Ignore build/output folders
+build/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
